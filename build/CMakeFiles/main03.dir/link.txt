@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/main03.dir/main03.c.o  -o main03 -rdynamic 

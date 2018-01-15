@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lkit/Programming/C/main03.c
+stdio.h
+-
+stdlib.h
+-
+
