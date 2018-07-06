@@ -1,1 +1,0 @@
-/usr/bin/cc     CMakeFiles/main04.dir/main04.c.o  -o main04 -rdynamic 

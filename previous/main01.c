@@ -26,9 +26,9 @@ void cmpresult(int type){
   }
 }
 
-// int main(void){
-//   var1=45, var2=70;
-//   cmpresult(0);
-//   return 0;
-// }
+int main(void){
+  var1=45, var2=70;
+  cmpresult(0);
+  return 0;
+}
 

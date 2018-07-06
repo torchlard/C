@@ -1,3 +1,0 @@
-/home/lkit/Programming/C/build/CMakeFiles/rebuild_cache.dir
-/home/lkit/Programming/C/build/CMakeFiles/main07.dir
-/home/lkit/Programming/C/build/CMakeFiles/edit_cache.dir

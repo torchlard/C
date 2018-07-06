@@ -1,1 +1,0 @@
-/usr/bin/cc     CMakeFiles/main02.dir/main01.c.o CMakeFiles/main02.dir/main02.c.o  -o main02 -rdynamic 
