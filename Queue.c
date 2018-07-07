@@ -28,6 +28,7 @@ int main(){
     // front++;
     front = (front+1)%M;
 
+    // ensure not overflow
     if ( (rear+1)%M == front) {
       puts("list is full!");
       exit(0);
