@@ -16,7 +16,7 @@ int main(){
   int front=1, rear=4;
   for(int i=0; i<n; i++){
     queue[rear] = queue[(front-1+M)%M] + queue[front];
-    printf("%d ", queue[rear]);
+    printf("%d ", queue[rear]); 
     // rear++;
     rear = (rear+1)%M;
     if(queue[front] == 0){
@@ -39,6 +39,19 @@ int main(){
   return 0;
   
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
